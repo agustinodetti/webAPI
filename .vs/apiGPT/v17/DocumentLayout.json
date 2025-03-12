@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\models\\chatgptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\models\\chatgptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\models\\chatgptresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\models\\chatgptresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\controllers\\translatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\controllers\\translatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,28 +35,8 @@
       "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\apigpt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\controllers\\translatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\controllers\\translatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\models\\chatgptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\models\\chatgptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|c:\\users\\grios\\desktop\\cursoapi\\apigpt\\apigpt\\models\\chatgptresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8FEE1A-0390-473D-BD37-82C48C9F87B1}|apiGPT\\apiGPT.csproj|solutionrelative:apigpt\\models\\chatgptresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -56,40 +56,40 @@
               "RelativeDocumentMoniker": "apiGPT\\Controllers\\TranslateController.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Controllers\\TranslateController.cs",
               "RelativeToolTip": "apiGPT\\Controllers\\TranslateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T16:05:34.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Program.cs",
               "RelativeDocumentMoniker": "apiGPT\\Program.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Program.cs",
               "RelativeToolTip": "apiGPT\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T14:49:00.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "OpenAIService.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Services\\OpenAIService.cs",
               "RelativeDocumentMoniker": "apiGPT\\Services\\OpenAIService.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Services\\OpenAIService.cs",
               "RelativeToolTip": "apiGPT\\Services\\OpenAIService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wCMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T14:35:49.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ChatGPTResponse.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Models\\ChatGPTResponse.cs",
               "RelativeDocumentMoniker": "apiGPT\\Models\\ChatGPTResponse.cs",
@@ -102,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ChatGPTRequest.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Models\\ChatGPTRequest.cs",
               "RelativeDocumentMoniker": "apiGPT\\Models\\ChatGPTRequest.cs",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Models\\ChatGPTRequest.cs",
               "RelativeToolTip": "apiGPT\\Models\\ChatGPTRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T14:32:45.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\appsettings.json",
               "RelativeDocumentMoniker": "apiGPT\\appsettings.json",
@@ -123,37 +123,34 @@
               "RelativeToolTip": "apiGPT\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T14:31:08.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:31:08.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "apiGPT",
+              "DocumentIndex": 7,
+              "Title": "apiGPT.csproj",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\apiGPT.csproj",
               "RelativeDocumentMoniker": "apiGPT\\apiGPT.csproj",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\apiGPT.csproj",
               "RelativeToolTip": "apiGPT\\apiGPT.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T14:22:33.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:22:33.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "apiGPT",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\apiGPT.csproj",
               "RelativeDocumentMoniker": "apiGPT\\apiGPT.csproj",
               "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\apiGPT.csproj",
               "RelativeToolTip": "apiGPT\\apiGPT.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T14:22:37.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:22:37.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ChatGPTController.cs",
               "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\apiGPT\\apiGPT\\Controllers\\ChatGPTController.cs",
               "RelativeDocumentMoniker": "apiGPT\\Controllers\\ChatGPTController.cs",

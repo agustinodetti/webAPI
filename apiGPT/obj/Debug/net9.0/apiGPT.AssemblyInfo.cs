@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiGPT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5771165251594585d65f518f504fa46fbbdbc004")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6609353e3749097d533e199e777056096f3af658")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiGPT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiGPT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

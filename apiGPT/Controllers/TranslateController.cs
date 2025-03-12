@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Google.Cloud.Translation.V2;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace apiGPT.Controllers
 {
@@ -19,13 +20,31 @@ namespace apiGPT.Controllers
         [HttpPost("traducir")]
         public async Task<IActionResult> Translate([FromBody] TranslateRequest request)
         {
-            if (string.IsNullOrEmpty(request.Text))
+            Console.WriteLine(JsonConvert.SerializeObject(request));
+            Console.WriteLine($"Texto recibido: {request.Text}");
+            Console.WriteLine($"Idioma destino: {request.TargetLanguage}");
+
+            if (string.IsNullOrWhiteSpace(request.Text))
                 return BadRequest("El texto a traducir no puede estar vacío.");
 
-            var response = await _translationClient.TranslateTextAsync(request.Text, request.TargetLanguage);
+            if (string.IsNullOrWhiteSpace(request.TargetLanguage))
+                return BadRequest("Debe especificar un idioma de destino.");
 
-            return Ok(new { TranslatedText = response.TranslatedText });
+            try
+            {
+                var response = await _translationClient.TranslateTextAsync(request.Text, request.TargetLanguage);
+
+                if (response == null || string.IsNullOrEmpty(response.TranslatedText))
+                    return StatusCode(500, "No se pudo obtener la traducción.");
+
+                return Ok(new { TranslatedText = response.TranslatedText });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al procesar la traducción: {ex.Message}");
+            }
         }
+
     }
 
     public class TranslateRequest
